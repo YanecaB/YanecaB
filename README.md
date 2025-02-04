@@ -10,8 +10,8 @@
 - 📫 How to reach me **yanislav12345678@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+- My ex-profile https://github.com/Yanislav12345E67923
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
