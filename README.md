@@ -1,24 +1,17 @@
-<h1 align="center">Hi 👋, I'm Yanislav Marinov</h1>
-<h3 align="center">A passionate Software Developer from Bulgaria</h3>
+<h4>I am a security resecaher</h4>
+I do audits and compete in public contests
+in the past 4 months i found over 40 valid issues 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yanecab&label=Profile%20views&color=0e75b6&style=flat" alt="yanecab" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yanecab" alt="yanecab" /></a> </p>
+## Contests results
 
-- 🔭 I’m currently working on [TradeBot](https://github.com/YanecaB/TradeBot.git)
-
-- 📫 How to reach me **yanislav12345678@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-- My ex-profile https://github.com/Yanislav12345E67923
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanecab&show_icons=true&locale=en&layout=compact" alt="yanecab" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yanecab&show_icons=true&locale=en" alt="yanecab" /></p>
- 
+| #  | Platform  | Competition / Report                                                                                       | Issues Found                                                                                                                                               | Placement                                                                                                                                            | Date         | Language     |          
+| -- | --------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------ |    
+| 1  | Sherlock  | [Symmio – Staking & Vesting](https://audits.sherlock.xyz/contests/838)                                     | 1M                                                                 | —                                                                                                                                                    | Mar 10, 2025 | Solidity     |          
+| 2  | Immunefi  | [Audit Comp  Yeet](https://immunefi.com/audit-competition/audit-comp-yeet/leaderboard/)                   | 1C, 1L | —            | Mar 25, 2025 | Solidity |
+| 3  | Cantina   | [Mighty Finance / mighty-contracts](https://cantina.xyz/competitions/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef) | 3H                                                                                                                         | —                                                                                                                                                    | Apr 15, 2025 | Solidity     |          
+| 4 | Cantina   | [Velvet Capital / velvet-v4](https://cantina.xyz/competitions/8cf9c7a0-a7a6-446a-8577-1e2c254eb5a8)        | 2M                                                                                                                                      | —                                                                                                                                                    | Apr 9, 2025  | Solidity     |          
+| 6 | Cantina   | [Metropolis / liquidity-book-vaults](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194)  | 1M                                                                                                                | —                                                                                                                                                    | Apr 20, 2025 | Solidity     |  
+| 5 | Cantina   | [Mystic Finance / mystic-monorepo](https://cantina.xyz/competitions/c160af78-28f8-47f7-9926-889b3864c6d8)  | 5H, 7M                                                                                                                 | —                                                                                                                                                    | May 18, 2025 | Solidity     |        
+| 6 | Cantina   | [Stability DAO / stability-contracts](https://cantina.xyz/competitions/e1c0be8d-0c3d-485a-a446-a582beb120b1)  | 1H, 2M                                                                                                                 | —                                                                                                                                                    | May 23, 2025 | Solidity     |     
+| 7 | Sherlock   | [DODO Cross-Chain DEX](https://audits.sherlock.xyz/contests/991?filter=questions)  | 2H, 2M                                                                                                                 | —                                                                                                                                                    | Jun 2, 2025 | Solidity     |    
