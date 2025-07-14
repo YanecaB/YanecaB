@@ -1,8 +1,8 @@
-<h4>I am a security resecaher :)</h4>
-I do audits and compete in public contests
-in the past 4 months I found over 40 valid issues 
+# Security Researcher
 
-Social media -> [Twitter](https://x.com/yaneca_b)
+I do smart contract audits and public contests.  
+> 40+ valid issues found in 4 months.  
+Twitter → [yaneca_b](https://x.com/yaneca_b)
 
 ---
 ## Contests results
