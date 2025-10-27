@@ -1,8 +1,8 @@
 # Security Researcher
 
-I do smart contract audits and public contests.  
-> 40+ valid issues found in 4 months.  
+I do smart contract audits and public contests.
 Twitter → [yaneca_b](https://x.com/yaneca_b)
+Telegram -> @Yaneca_b
 
 ---
 ## Contests results
@@ -17,3 +17,4 @@ Twitter → [yaneca_b](https://x.com/yaneca_b)
 | 5 | Cantina   | [Mystic Finance / mystic-monorepo](https://cantina.xyz/competitions/c160af78-28f8-47f7-9926-889b3864c6d8)  | 5H, 7M                                                                                                                 | —                                                                                                                                                    | May 18, 2025 | Solidity     |        
 | 6 | Cantina   | [Stability DAO / stability-contracts](https://cantina.xyz/competitions/e1c0be8d-0c3d-485a-a446-a582beb120b1)  | 1H, 2M                                                                                                                 | —                                                                                                                                                    | May 23, 2025 | Solidity     |     
 | 7 | Sherlock   | [DODO Cross-Chain DEX](https://audits.sherlock.xyz/contests/991?filter=questions)  | 2H, 2M                                                                                                                 | —                                                                                                                                                    | Jun 2, 2025 | Solidity     |    
+| 8 | Sherlock   | [USG](https://audits.sherlock.xyz/contests/991?filter=questions)  | 2M                                                                                                                 | —                                                                                                                                                    | - | Solidity     |  
