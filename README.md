@@ -1,6 +1,7 @@
 # Security Researcher
 
 I do smart contract audits and public contests.
+
 Twitter → [yaneca_b](https://x.com/yaneca_b)
 Telegram -> @Yaneca_b
 
