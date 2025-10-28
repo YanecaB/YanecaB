@@ -2,9 +2,9 @@
 
 I do smart contract audits and public contests.
 
-Twitter → [yaneca_b](https://x.com/yaneca_b) 
+Twitter → [@yaneca_b](https://x.com/yaneca_b) 
 
-Telegram -> @Yaneca_b
+Telegram -> [@Yaneca_b](https://t.me/Yaneca_b)
 
 ---
 ## Contests results
