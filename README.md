@@ -26,6 +26,11 @@ Telegram -> [@Yaneca_b](https://t.me/Yaneca_b)
 | 2  | 08.2025 | [Foresight](https://x.com/foresightnow) | prediction market | 3H, 2M, 2L | [📑](https://github.com/phage-security/audits/blob/main/2025-08-foresight.pdf) | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
 | 1  | 07.2025 | [Hikari](https://x.com/hikari_finance) | UNIv3 positions | 3H, 5M, 4L | private | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
 
+---
+## Bug Bounties
+| Project |  Category | Severity | Language |
+|:--|:--|:--|:--|:--|
+| [Poly Lend](https://x.com/poly_lend) | PM + lending | Critical | Solidity |
 
 ---
 ## Contests results
