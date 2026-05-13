@@ -29,7 +29,7 @@ Telegram -> [@Yaneca_b](https://t.me/Yaneca_b)
 ---
 ## Bug Bounties
 | Project |  Category | Severity | Language |
-|:--|:--|:--|:--|:--|
+|:--|:--|:--|:--|
 | [Poly Lend](https://x.com/poly_lend) | PM + lending | Critical | Solidity |
 
 ---
