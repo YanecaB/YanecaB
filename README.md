@@ -1,6 +1,6 @@
 # Security Researcher
 
-I do smart contract audits and public contests.
+I do smart contract audits and contests.
 
 Twitter → [@yaneca_b](https://x.com/yaneca_b) 
 
